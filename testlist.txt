@@ -1,0 +1,12 @@
+Basketball/v_Basketball_g02_c01.avi
+Basketball/v_Basketball_g02_c02.avi
+Basketball/v_Basketball_g02_c03.avi
+Biking/v_Biking_g02_c05.avi
+Biking/v_Biking_g02_c06.avi
+Biking/v_Biking_g02_c07.avi
+CliffDiving/v_CliffDiving_g02_c02.avi
+CliffDiving/v_CliffDiving_g02_c03.avi
+CliffDiving/v_CliffDiving_g02_c04.avi
+CricketBowling/v_CricketBowling_g02_c01.avi
+CricketBowling/v_CricketBowling_g02_c02.avi
+CricketBowling/v_CricketBowling_g02_c03.avi
